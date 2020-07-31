@@ -1,0 +1,52 @@
+{
+  "docs": {
+    "Starting a New Journal" :
+    [
+      "start",
+      "start1",
+      "start2",
+      "start3"
+     ],
+    "Establishing Policies" :
+    [
+      "establish",
+      "establish1",
+      "establish2",
+      "establish3"
+    ],
+    "Preparing Your Journal" :
+    [
+      "prepare"
+    ],
+    "Managing Your Journal" :
+    [
+      "manage",
+      "manage1",
+      "manage2",
+      "manage3"
+    ],
+    "Identifiers" :
+    [
+      "identifiers",
+      "identifiers1",
+      "identifiers2"
+    ],
+    "Promoting Your Journals" :
+    [
+      "promote",
+      "promote1",
+      "promote2"
+    ],
+    "Archiving Your Journal" :
+    [
+      "archive"
+    ],
+    "Resources" :
+    [
+      "mou",
+      "authors",
+      "contacts",
+      "resources"
+    ]
+  }
+}
