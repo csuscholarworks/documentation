@@ -2,7 +2,7 @@
 id: promote
 title: Promoting Your Journal
 description: How to promote your journal
-sidebar_label: Promoting Your Journal
+sidebar_label: Indexing
 ---
 
 ## Indexing

@@ -1,8 +1,8 @@
 ---
 id: manage3
-title: Managing Your Journal
-description: Managing your journal
-sidebar_label: Managing Your Journal
+title: Managing Your Journal 
+description: Managing your journal -- Production
+sidebar_label: Production
 ---
 
 ## Managing Your Journal
