@@ -14,4 +14,10 @@ Ensuring that articles are accessible to screen readers and other assistive tech
  - Journals can conduct accessibility checking and remediation themselves during the production phase of publication
  - Journals can discuss with their library contact what, if any, remediation services (in-house or freelance) are available
 
+ The following resources provide guidance on making PDF and Microsoft Word documents accessible:
+
+ - [Create Accessible PDFs (US GSA)](https://www.section508.gov/create/pdfs)
+ - [Creating an Accessible Microsoft Word Document - Washington State University](https://web.wsu.edu/creating-an-accessible-microsoft-word-document/)
+ - [The National Center on Disability and Access to Education](http://ncdae.org/resources/cheatsheets/)
+
 Sharing with authors resources to assist them in making their manuscripts compliant while they are still in Microsoft Word or other word processing formats is the easiest way to create accessible articles. While it is possible to remediate PDFs, it is more cumbersome.
