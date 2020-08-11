@@ -1,10 +1,9 @@
 ---
 id: identifiers1
-title: Identifiers
+title: Using Identifiers
 description: Using Publication and Author Identifiers
 sidebar_label: DOIs
 ---
-
 ## DOIs
 
 A DOI (Digital Object Identifier) is an alphanumeric string assigned to online content to provide persistent access via an active web link. DOIs are primarily used in academic contexts and can be assigned at a high level (e.g., books, journals) and more granularly (e.g., articles, data sets, cover art).

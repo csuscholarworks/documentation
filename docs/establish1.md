@@ -5,6 +5,7 @@ description: Establishing policies
 sidebar_label: Peer Review
 ---
 ## Peer Review
+
 [![Peer Review Process](assets/peerreview.png)](https://youtu.be/DWzKI4WhSPQ)
 
 Review policies should be clearly described on your journal’s website, whether under the About the Journal section of [Journal Settings](https://docs.pkp.sfu.ca/learning-ojs/en/journal-setup#masthead) and/or within the [Author Guidelines](https://docs.pkp.sfu.ca/learning-ojs/en/settings-workflow#author-guidelines).
@@ -25,6 +26,7 @@ When creating your journal’s peer review policy, you may want to consult the f
 - [Reviewing tips and best practices](https://authorservices.wiley.com/editors/peer-review/reviewing-tips-and-best-practice.html)
 
 ### Reviewer and Author Resources
+
 The PKP provides documentation related to peer review for [reviewers](https://docs.pkp.sfu.ca/learning-ojs/en/reviewing) and [authors](https://docs.pkp.sfu.ca/learning-ojs/en/authoring#responding-to-a-review), in addition to the PKP School’s free [Becoming a Reviewer](https://pkpschool.sfu.ca/courses/becoming-a-reviewer/) online course. You are welcome to refer others to this information and/or link to it from your journal’s website.
 
 You may also wish to refer authors to the following resources and/or link to these on your journal’s website:

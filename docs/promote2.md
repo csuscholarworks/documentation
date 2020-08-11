@@ -22,9 +22,10 @@ If you click the “Report Generator” tab, you can then choose from a number o
 
 Alternatively, you can click the “Generate custom report” button, which will give you many more options. For more information about how to use this feature, see the [PKP’s documentation](https://docs.pkp.sfu.ca/admin-guide/en/statistics#generate-reports-examples-and-tips).
 
-
 ## Displaying OJS Article-Level Metrics
+
 If you would like to display article-level metrics publicly, you will need to add and configure the Usage Statistics Plugin (Settings > Website > Plugins). See the [PKP’s documentation](https://docs.pkp.sfu.ca/admin-guide/en/statistics#display-usage-statistics-for-readers) for further instructions.
 
 ## Third-Party Metrics
+
 OJS also supports additional plugins to integrate third-party metrics, and you can review the available plugins by going to Settings > Website > Plugins. Note that some plugins will require an external account (e.g., the Google Analytics Plugin) and/or a subscription (e.g., the Plum Analytics Artifact Widget). Please check with your [library publishing contact](contacts.md) to learn more about whether these services are part of the publishing program at your library.

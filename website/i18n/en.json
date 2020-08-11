@@ -5,10 +5,6 @@
     "previous": "Previous",
     "tagline": "Working with Open Journal Systems at California State University",
     "docs": {
-      "archive": {
-        "title": "Promoting Your Journal",
-        "sidebar_label": "Promoting Your Journal"
-      },
       "authors": {
         "title": "Resources",
         "sidebar_label": "Author agreements"
@@ -34,44 +30,44 @@
         "sidebar_label": "Accessibility"
       },
       "identifiers": {
-        "title": "Identifiers",
+        "title": "Using Identifiers",
         "sidebar_label": "ISSN"
       },
       "identifiers1": {
-        "title": "Identifiers",
+        "title": "Using Identifiers",
         "sidebar_label": "DOIs"
       },
       "identifiers2": {
-        "title": "Identifiers",
+        "title": "Using Identifiers",
         "sidebar_label": "ORCID"
+      },
+      "info": {
+        "title": "information for library Contacts",
+        "sidebar_label": "information for Library Contracts"
       },
       "manage": {
         "title": "Managing Your Journal",
-        "sidebar_label": "Submission"
+        "sidebar_label": "Production"
       },
       "manage1": {
         "title": "Managing Your Journal",
-        "sidebar_label": "Review"
+        "sidebar_label": "Submission"
       },
       "manage2": {
         "title": "Managing Your Journal",
-        "sidebar_label": "Copyediting"
+        "sidebar_label": "Review"
       },
       "manage3": {
         "title": "Managing Your Journal",
-        "sidebar_label": "Managing Your Journal"
+        "sidebar_label": "Copyediting"
       },
       "mou": {
         "title": "Resources",
         "sidebar_label": "Memoranda of Understanding"
       },
-      "prepare": {
-        "title": "Preparing Your Journal",
-        "sidebar_label": "Preparing Your Journal"
-      },
       "promote": {
         "title": "Promoting Your Journal",
-        "sidebar_label": "Promoting Your Journal"
+        "sidebar_label": "Indexing"
       },
       "promote1": {
         "title": "Promoting Your Journal",
@@ -85,21 +81,33 @@
         "title": "Resources",
         "sidebar_label": "Resources"
       },
+      "setting": {
+        "title": "Setting Up OJS",
+        "sidebar_label": "User Roles"
+      },
+      "setting1": {
+        "title": "Setting Up OJS",
+        "sidebar_label": "Journal Settings"
+      },
+      "setting2": {
+        "title": "Setting Up OJS",
+        "sidebar_label": "Website Settings"
+      },
+      "setting3": {
+        "title": "Setting Up OJS",
+        "sidebar_label": "Workflow Settings"
+      },
+      "setting4": {
+        "title": "Setting Up OJS",
+        "sidebar_label": "Distribution Settings"
+      },
       "start": {
         "title": "Starting a New Journal",
         "sidebar_label": "Journal Support at CSU Libraries"
       },
       "start1": {
         "title": "Starting a New Journal",
-        "sidebar_label": "Things to Consider"
-      },
-      "start2": {
-        "title": "Starting a New Journal",
         "sidebar_label": "Get Started"
-      },
-      "start3": {
-        "title": "Starting a New Journal",
-        "sidebar_label": "Publishing Ethics"
       }
     },
     "links": {
@@ -109,12 +117,11 @@
     },
     "categories": {
       "Starting a New Journal": "Starting a New Journal",
+      "Setting Up OJS": "Setting Up OJS",
       "Establishing Policies": "Establishing Policies",
-      "Preparing Your Journal": "Preparing Your Journal",
       "Managing Your Journal": "Managing Your Journal",
-      "Identifiers": "Identifiers",
-      "Promoting Your Journals": "Promoting Your Journals",
-      "Archiving Your Journal": "Archiving Your Journal",
+      "Using Identifiers": "Using Identifiers",
+      "Promoting Your Journal": "Promoting Your Journal",
       "Resources": "Resources"
     }
   },

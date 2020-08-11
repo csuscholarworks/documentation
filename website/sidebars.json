@@ -3,10 +3,16 @@
     "Starting a New Journal" :
     [
       "start",
-      "start1",
-      "start2",
-      "start3"
+      "start1"
      ],
+    "Setting Up OJS" :
+    [
+      "setting",
+      "setting1",
+      "setting2",
+      "setting3",
+      "setting4"
+    ],
     "Establishing Policies" :
     [
       "establish",
@@ -14,32 +20,25 @@
       "establish2",
       "establish3"
     ],
-    "Preparing Your Journal" :
-    [
-      "prepare"
-    ],
     "Managing Your Journal" :
     [
       "manage",
       "manage1",
       "manage2",
-      "manage3"
+      "manage3",
+      "manage4"
     ],
-    "Identifiers" :
+    "Using Identifiers" :
     [
       "identifiers",
       "identifiers1",
       "identifiers2"
     ],
-    "Promoting Your Journals" :
+    "Promoting Your Journal" :
     [
       "promote",
       "promote1",
       "promote2"
-    ],
-    "Archiving Your Journal" :
-    [
-      "archive"
     ],
     "Resources" :
     [

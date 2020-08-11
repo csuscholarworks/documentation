@@ -5,6 +5,7 @@ description: How to promote your journal
 sidebar_label: Social Media
 ---
 ## Social Media
+
 OJS also allows integration of social media buttons onto a journal’s sidebar by using the AddThis plugin. Go to Settings > Website > Plugins > Plugin Gallery to find and activate the AddThis plugin. You will need an AddThis [account](https://www.addthis.com/) to activate statistics. See the [PKP documentation](https://docs.pkp.sfu.ca/learning-ojs/en/settings-website#plugins) for further instructions.
 
 If you are new to social media for journal promotion, here is a useful [article](https://blog.typeset.io/how-to-use-social-media-to-promote-your-journal-86137c71fd52) on promoting across different social media platforms. SAGE Publishing also has an in-depth guide to [promoting your journal](https://us.sagepub.com/en-us/nam/promote-your-journal) with social media.

@@ -1,16 +1,19 @@
 ---
 id: manage3
-title: Managing Your Journal 
-description: Managing your journal -- Production
-sidebar_label: Production
+title: Managing Your Journal
+description: Managing your journal
+sidebar_label: Copyediting
 ---
-
 ## Managing Your Journal
-The OJS Workflow consists of four stages: Submission, Review, Copyediting, and Production.
 
-## Production
-Ideally, journal content should be published in at least three formats: PDFs (for your readers to download), HTMLs (for your readers to access online), and [JATS XMLs](https://blog.typeset.io/jats-xml-everything-a-publisher-needs-to-know-95862a4184a3#51cd) (to improve search engine visibility). Converting files into these various formats can be time-consuming, and depending on your journal’s number of editorial staff and their technical expertise, you may or may not be able to support all of them. At this time, the CSU libraries are only able to provide consultative support, but the following information will assist you in getting started.
+The OJS [editorial workflow](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow) consists of four stages: Submission, Review, Copyediting, and Production.
 
-The [PKP documentation](https://docs.pkp.sfu.ca/learning-ojs/en/production-publication#format-article-for-publication) includes some information related to formatting content for publication, including how to assign a Layout Editor.  
+## Copyediting
 
-Word templates? (Here is a useful video on how to format a word doc in journal format, though we should make our own, if not the template itself): https://youtu.be/rCQFEzHjV7I)
+CSU libraries are unable to provide copyediting support for online journals. Many smaller-scale presses and individual open access journals rely on volunteers to do light copyediting or hire [freelance editors](https://www.the-efa.org/hiring/) to perform this work.
+
+For detailed instructions on copyediting in OJS, see the [PKP documentation](https://docs.pkp.sfu.ca/learning-ojs-2/en/in_editing_copyediting).
+
+To learn about the practices of copyediting, proofreading, and substantive editing, see this [article](https://www.editage.com/all-about-publication/english-editing/copy-editing-vs-proofreading-vs-substantive-editing.html).
+
+It is also advisable to create a style guide for your journal to achieve consistency in style, grammar, and presentation, among other concerns. For examples of style guides, see *[The BMJ](https://www.bmj.com/about-bmj/resources-authors/house-style)* and *[The Journal of Politics](https://www.journals.uchicago.edu/journals/jop/style?mobileUi=0&)*.
