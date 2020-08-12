@@ -1,6 +1,6 @@
 ---
 id: establish
-title: Establishing Policies
+title: Open Access
 description: Establishing policies
 sidebar_label: Open Access
 ---

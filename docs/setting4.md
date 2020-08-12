@@ -21,7 +21,7 @@ In most cases, journals should not alter the default Access settings. If you hav
 ![distributionsettings](assets/DistributionSettings.png)
 
 ### Payments
-Journals that receive support from a CSU library must not charge subscription fees. As noted in the Get Started section, if your journal wishes to charge author fees (also known as article processing charges), you will be responsible for managing them.
+Journals that receive support from a CSU library must not charge subscription fees. As noted in the [Get Started](start1.md) section, if your journal wishes to charge author fees (also known as article processing charges), you will be responsible for managing them.
 
 The PKP’s [Distribution Settings](https://docs.pkp.sfu.ca/learning-ojs/en/settings-distribution#payments) documentation describes how to enable payments. Once completing those steps, you should consult the [Subscriptions](https://docs.pkp.sfu.ca/learning-ojs/en/subscriptions#payment-types) documentation, which includes information on author fees.
 
