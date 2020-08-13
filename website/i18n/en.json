@@ -79,7 +79,7 @@
       },
       "resources": {
         "title": "Resources",
-        "sidebar_label": "Resources"
+        "sidebar_label": "Additional resources about OJS"
       },
       "setting": {
         "title": "Setting Up OJS",
@@ -111,9 +111,8 @@
       }
     },
     "links": {
-      "About OJS": "About OJS",
-      "Journals@CSU": "Journals@CSU",
-      "Resources": "Resources"
+      "Contact Your Campus": "Contact Your Campus",
+      "Journals@CSU": "Journals@CSU"
     },
     "categories": {
       "Starting a New Journal": "Starting a New Journal",

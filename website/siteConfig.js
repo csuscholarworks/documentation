@@ -38,9 +38,8 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'start', label: 'About OJS'},
-    {href: 'https://journals.calstate.edu/' , label: 'Journals@CSU'},
-    {doc: 'resources' , label: 'Resources'}
+    {doc: 'contacts', label: 'Contact Your Campus'},
+    {href: 'https://journals.calstate.edu/' , label: 'Journals@CSU'}
   ],
 
   // If you have users set above, you add it here:

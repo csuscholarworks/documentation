@@ -2,7 +2,7 @@
 id: resources
 title: Resources
 description: Templates, tools, and resources for open journals
-sidebar_label: Resources
+sidebar_label: Additional resources about OJS
 ---
 ## PKP
 
