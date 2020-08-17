@@ -25,7 +25,7 @@ As stated in the [Principles of Transparency and Best Practice in Scholarly Publ
 When creating your journal’s peer review policy, you may want to consult the following resources:
 
  - [Peer Review Nuts and Bolts](https://senseaboutscience.org/activities/peer-review-the-nuts-and-bolts/)
- - [Peer Review](https://publicationethics.org/peerreview)
+ - [Peer Review processes](https://publicationethics.org/peerreview)
  - [Who Owns Peer Reviews](https://publicationethics.org/files/u7140/Who_Owns_Peer_Reviews_Discussion_Document_Web.pdf)
  - [Reviewing tips and best practices](https://authorservices.wiley.com/editors/peer-review/reviewing-tips-and-best-practice.html)
 
