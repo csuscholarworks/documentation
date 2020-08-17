@@ -11,7 +11,7 @@ This section provides an overview of more theoretical publishing best practices,
 ### Peer Review
 [![Peer Review Process](assets/peerreview.png)](https://youtu.be/DWzKI4WhSPQ)
 
-Review policies should be clearly described on your journal’s website, whether under the About the Journal section of [Journal Settings](https://docs.pkp.sfu.ca/learning-ojs/en/journal-setup#masthead) and/or within the [Author Guidelines](https://docs.pkp.sfu.ca/learning-ojs/en/settings-workflow#author-guidelines).
+Review policies should be clearly described on your journal’s website, generally within the About the Journal and Sections areas of [Journal Settings](https://docs.pkp.sfu.ca/learning-ojs/en/journal-setup#masthead).
 
 As stated in the [Principles of Transparency and Best Practice in Scholarly Publishing](https://doaj.org/bestpractice):
 
@@ -24,9 +24,10 @@ As stated in the [Principles of Transparency and Best Practice in Scholarly Publ
 
 When creating your journal’s peer review policy, you may want to consult the following resources:
 
-- [Peer Review Nuts and Bolts](https://senseaboutscience.org/activities/peer-review-the-nuts-and-bolts/)
-- [Who Owns Peer Reviews](https://publicationethics.org/files/u7140/Who_Owns_Peer_Reviews_Discussion_Document_Web.pdf)
-- [Reviewing tips and best practices](https://authorservices.wiley.com/editors/peer-review/reviewing-tips-and-best-practice.html)
+ - [Peer Review Nuts and Bolts](https://senseaboutscience.org/activities/peer-review-the-nuts-and-bolts/)
+ - [Peer Review](https://publicationethics.org/peerreview)
+ - [Who Owns Peer Reviews](https://publicationethics.org/files/u7140/Who_Owns_Peer_Reviews_Discussion_Document_Web.pdf)
+ - [Reviewing tips and best practices](https://authorservices.wiley.com/editors/peer-review/reviewing-tips-and-best-practice.html)
 
 ### Reviewer and Author Resources
 The PKP provides documentation related to peer review for [reviewers](https://docs.pkp.sfu.ca/learning-ojs/en/reviewing) and [authors](https://docs.pkp.sfu.ca/learning-ojs/en/authoring#responding-to-a-review), in addition to the PKP School’s free [Becoming a Reviewer](https://pkpschool.sfu.ca/courses/becoming-a-reviewer/) online course. You are welcome to refer others to this information and/or link to it from your journal’s website.

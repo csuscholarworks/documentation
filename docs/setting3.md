@@ -5,6 +5,8 @@ description: Setting Up OJS - Workflow Settings
 sidebar_label: Workflow Settings
 ---
 
+Your [library publishing contact](contacts.md) will work with the CSU’s Systemwide Digital Library Services to create an OJS account for your journal. Once that process is complete, you should familiarize yourself with the platform. The PKP’s [introduction](https://docs.pkp.sfu.ca/learning-ojs/en/introduction#ojs-features) to OJS provides a brief overview of the various features.
+
 ## Workflow Settings
 Next, click Settings in the left sidebar, and select Workflow. The corresponding [PKP documentation](https://docs.pkp.sfu.ca/learning-ojs/en/settings-workflow) will guide you through this part of the setup process.
 

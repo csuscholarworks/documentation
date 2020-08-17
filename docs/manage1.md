@@ -10,8 +10,8 @@ The OJS [editorial workflow](https://docs.pkp.sfu.ca/learning-ojs/3.1/en/editori
 
 The following information pertains mainly to journal managers. Separate information for authors and reviewers is available at the following links:
 
-- https://docs.pkp.sfu.ca/learning-ojs/3.1/en/authoring
-- https://docs.pkp.sfu.ca/learning-ojs/3.1/en/reviewing
+ - https://docs.pkp.sfu.ca/learning-ojs/3.1/en/authoring
+ - https://docs.pkp.sfu.ca/learning-ojs/3.1/en/reviewing
 
 ### Review
 As noted previously in this [guide](setting3.md), you can choose from various review options within the Workflow Settings. For more detailed instructions, review the [PKP documentation](https://docs.pkp.sfu.ca/learning-ojs/3.1/en/settings-workflow#review).

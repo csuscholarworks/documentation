@@ -5,6 +5,8 @@ description: Setting Up OJS - Website Settings
 sidebar_label: Website Settings
 ---
 
+Your [library publishing contact](contacts.md) will work with the CSU’s Systemwide Digital Library Services to create an OJS account for your journal. Once that process is complete, you should familiarize yourself with the platform. The PKP’s [introduction](https://docs.pkp.sfu.ca/learning-ojs/en/introduction#ojs-features) to OJS provides a brief overview of the various features.
+
 ## Website Settings
 When finished with your journal settings, click Settings in the left sidebar, and select Website. You can again follow along with the [PKP documentation](https://docs.pkp.sfu.ca/learning-ojs/en/settings-website), which will help you customize the look and feel of your journal website.
 
@@ -15,7 +17,7 @@ Note that you can change the default theme by navigating to the Plugins tab, scr
 
 ![themes](assets/themes.png)
 
-If you have questions or run into technical difficulties, please email your [library publishing contact](contacts.md).
+If you have questions, would like to request minor customizations, or run into technical difficulties, please email your [library publishing contact](contacts.md).
 
 ### Archiving
 It is very important to identify an archiving (also known as digital preservation) strategy for your journal to ensure long-term access to the content.
