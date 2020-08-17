@@ -1,6 +1,6 @@
 ---
 id: identifiers2
-title: Using Identifiers - ORCID
+title: Using Identifiers
 description: Using Publication and Author Identifiers
 sidebar_label: ORCID
 ---

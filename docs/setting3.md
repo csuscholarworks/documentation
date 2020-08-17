@@ -1,6 +1,6 @@
 ---
 id: setting3
-title: Setting Up OJS - Workflow Settings
+title: Setting Up OJS
 description: Setting Up OJS - Workflow Settings
 sidebar_label: Workflow Settings
 ---

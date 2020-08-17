@@ -1,6 +1,6 @@
 ---
 id: info2
-title: Resources - Templates
+title: Resources
 description: Resources - Templates
 sidebar_label: Templates
 ---

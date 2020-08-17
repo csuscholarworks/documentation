@@ -1,6 +1,6 @@
 ---
 id: establish2
-title: Establishing Policies - Peer Review
+title: Establishing Policies
 description: Establishing Policies - Peer Review
 sidebar_label: Peer Review
 ---

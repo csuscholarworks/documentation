@@ -1,6 +1,6 @@
 ---
 id: setting2
-title: Setting Up OJS - Website Settings
+title: Setting Up OJS
 description: Setting Up OJS - Website Settings
 sidebar_label: Website Settings
 ---

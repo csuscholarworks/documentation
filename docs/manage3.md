@@ -1,6 +1,6 @@
 ---
 id: manage3
-title: Managing Your Journal - Production
+title: Managing Your Journal
 description: Managing Your Journal - Production
 sidebar_label: Production
 ---

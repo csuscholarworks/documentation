@@ -1,6 +1,6 @@
 ---
 id: info4
-title: Resources - DOI
+title: Resources
 description: Resources - DOI
 sidebar_label: DOI
 ---

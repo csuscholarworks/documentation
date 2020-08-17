@@ -1,6 +1,6 @@
 ---
 id: info
-title: Resources - CSU Contacts
+title: Resources
 description: Resources - CSU Contacts
 sidebar_label: CSU Contacts
 ---

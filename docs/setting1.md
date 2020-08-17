@@ -1,6 +1,6 @@
 ---
 id: setting1
-title: Setting Up OJS - Journal Settings
+title: Setting Up OJS
 description: Setting Up OJS - Journal Settings
 sidebar_label: Journal Settings
 ---

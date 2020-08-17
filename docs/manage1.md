@@ -1,6 +1,6 @@
 ---
 id: manage1
-title: Managing Your Journal - Review
+title: Managing Your Journal
 description: Managing Your Journal - Review
 sidebar_label: Review
 ---

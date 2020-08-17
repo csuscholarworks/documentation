@@ -1,6 +1,6 @@
 ---
 id: manage
-title: Managing Your Journal - Submission
+title: Managing Your Journal
 description: Managing Your Journal - Submission
 sidebar_label: Submission
 ---

@@ -1,6 +1,6 @@
 ---
 id: manage2
-title: Managing Your Journal - Copyediting
+title: Managing Your Journal
 description: Managing Your Journal - Copyediting
 sidebar_label: Copyediting
 ---

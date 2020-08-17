@@ -1,6 +1,6 @@
 ---
 id: establish
-title: Establishing Policies - Publishing Ethics
+title: Establishing Policies 
 description: Establishing Policies - Publishing Ethics
 sidebar_label: Publishing Ethics
 ---

@@ -1,6 +1,6 @@
 ---
 id: identifiers1
-title: Using Identifiers - DOIs
+title: Using Identifiers
 description: Using Publication and Author Identifiers
 sidebar_label: DOIs
 ---

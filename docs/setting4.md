@@ -1,6 +1,6 @@
 ---
 id: setting4
-title: Setting Up OJS - Distribution Settings
+title: Setting Up OJS
 description: Setting Up OJS - Distribution Settings
 sidebar_label: Distribution Settings
 ---

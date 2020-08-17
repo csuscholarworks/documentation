@@ -1,6 +1,6 @@
 ---
 id: setting
-title: Setting Up OJS - User Roles
+title: Setting Up OJS
 description: Setting Up OJS - User Roles
 sidebar_label: User Roles
 ---

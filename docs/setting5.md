@@ -1,6 +1,6 @@
 ---
 id: setting5
-title: Setting Up OJS - Import Tool
+title: Setting Up OJS
 description: Setting Up OJS - Import Tool
 sidebar_label: Import Tool
 ---

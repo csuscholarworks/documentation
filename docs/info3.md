@@ -1,6 +1,6 @@
 ---
 id: info3
-title: Resources - Archiving
+title: Resources
 description: Resources - Archiving
 sidebar_label: Archiving
 ---

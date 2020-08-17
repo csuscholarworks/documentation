@@ -1,6 +1,6 @@
 ---
 id: info6
-title: Resources - Additional Documentation
+title: Resources
 description: Resources - Additional Documentation
 sidebar_label: Additional Documentation
 ---

@@ -1,6 +1,6 @@
 ---
 id: info5
-title: Resources - ORCID Plugin
+title: Resources
 description: Resources - ORCID Plugin
 sidebar_label: ORCID Plugin
 ---

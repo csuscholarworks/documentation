@@ -1,6 +1,6 @@
 ---
 id: info1
-title: Resources - Memoranda of Understanding
+title: Resources
 description: Resources - Memoranda of Understanding
 sidebar_label: Memoranda of Understanding
 ---

@@ -1,6 +1,6 @@
 ---
 id: establish3
-title: Establishing Policies - Copyright and Licensing
+title: Establishing Policies
 description: Establishing Policies - Copyright and Licensing
 sidebar_label: Copyright and Licensing
 ---

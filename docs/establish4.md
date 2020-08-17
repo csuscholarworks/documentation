@@ -1,6 +1,6 @@
 ---
 id: establish4
-title: Establishing Policies - Accessibility
+title: Establishing Policies
 description: Establishing Policies - Accessibility
 sidebar_label: Accessibility
 ---

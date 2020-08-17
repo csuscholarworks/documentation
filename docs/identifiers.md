@@ -1,6 +1,6 @@
 ---
 id: identifiers
-title: Using Identifiers - ISSN
+title: Using Identifiers
 description: Using Publication and Author Identifiers
 sidebar_label: ISSN
 ---
