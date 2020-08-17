@@ -11,7 +11,8 @@
       "setting1",
       "setting2",
       "setting3",
-      "setting4"
+      "setting4",
+      "setting5"
     ],
     "Establishing Policies" :
     [
@@ -25,8 +26,7 @@
       "manage",
       "manage1",
       "manage2",
-      "manage3",
-      "manage4"
+      "manage3"
     ],
     "Using Identifiers" :
     [
@@ -40,12 +40,15 @@
       "promote1",
       "promote2"
     ],
-    "Resources" :
+    "Resources (Library Contacts)" :
     [
-      "mou",
-      "authors",
-      "contacts",
-      "resources"
+      "info",
+      "info1",
+      "info2",
+      "info3",
+      "info4",
+      "info5",
+      "info6"
     ]
   }
 }

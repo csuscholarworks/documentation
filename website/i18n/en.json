@@ -5,65 +5,85 @@
     "previous": "Previous",
     "tagline": "Working with Open Journal Systems at California State University",
     "docs": {
-      "authors": {
-        "title": "Resources",
-        "sidebar_label": "Author agreements"
-      },
       "contacts": {
-        "title": "California State University library publishing contact",
-        "sidebar_label": "Contact"
+        "title": "CSU Library Publishing Contacts",
+        "sidebar_label": "CSU Campus Contacts"
       },
       "establish": {
-        "title": "Open Access",
-        "sidebar_label": "Open Access"
+        "title": "Establishing Policies - Publishing Ethics",
+        "sidebar_label": "Publishing Ethics"
       },
       "establish1": {
-        "title": "Establishing Policies",
-        "sidebar_label": "Peer Review"
+        "title": "Establishing Policies - Open Access",
+        "sidebar_label": "Open Access"
       },
       "establish2": {
-        "title": "Establishing Policies",
-        "sidebar_label": "Copyright and Licensing"
+        "title": "Establishing Policies - Peer Review",
+        "sidebar_label": "Peer Review"
       },
       "establish3": {
-        "title": "Establishing Policies",
+        "title": "Establishing Policies - Copyright and Licensing",
+        "sidebar_label": "Copyright and Licensing"
+      },
+      "establish4": {
+        "title": "Establishing Policies - Accessibility",
         "sidebar_label": "Accessibility"
       },
       "identifiers": {
-        "title": "Using Identifiers",
+        "title": "Using Identifiers - ISSN",
         "sidebar_label": "ISSN"
       },
       "identifiers1": {
-        "title": "Using Identifiers",
+        "title": "Using Identifiers - DOIs",
         "sidebar_label": "DOIs"
       },
       "identifiers2": {
-        "title": "Using Identifiers",
+        "title": "Using Identifiers - ORCID",
         "sidebar_label": "ORCID"
       },
       "info": {
-        "title": "information for library Contacts",
-        "sidebar_label": "information for Library Contracts"
+        "title": "Resources - CSU Contacts",
+        "sidebar_label": "CSU Contacts"
+      },
+      "info1": {
+        "title": "Resources - Memoranda of Understanding",
+        "sidebar_label": "Memoranda of Understanding"
+      },
+      "info2": {
+        "title": "Resources - Templates",
+        "sidebar_label": "Templates"
+      },
+      "info3": {
+        "title": "Resources - Archiving",
+        "sidebar_label": "Archiving"
+      },
+      "info4": {
+        "title": "Resources - DOI",
+        "sidebar_label": "DOI"
+      },
+      "info5": {
+        "title": "Resources - ORCID Plugin",
+        "sidebar_label": "ORCID Plugin"
+      },
+      "info6": {
+        "title": "Resources - Additional Documentation",
+        "sidebar_label": "Additional Documentation"
       },
       "manage": {
-        "title": "Managing Your Journal",
-        "sidebar_label": "Production"
-      },
-      "manage1": {
-        "title": "Managing Your Journal",
+        "title": "Managing Your Journal - Submission",
         "sidebar_label": "Submission"
       },
-      "manage2": {
-        "title": "Managing Your Journal",
+      "manage1": {
+        "title": "Managing Your Journal - Review",
         "sidebar_label": "Review"
       },
-      "manage3": {
-        "title": "Managing Your Journal",
+      "manage2": {
+        "title": "Managing Your Journal - Copyediting",
         "sidebar_label": "Copyediting"
       },
-      "mou": {
-        "title": "Resources",
-        "sidebar_label": "Memoranda of Understanding"
+      "manage3": {
+        "title": "Managing Your Journal - Production",
+        "sidebar_label": "Production"
       },
       "promote": {
         "title": "Promoting Your Journal",
@@ -77,33 +97,33 @@
         "title": "Promoting Your Journal",
         "sidebar_label": "Metrics"
       },
-      "resources": {
-        "title": "Resources",
-        "sidebar_label": "Additional resources about OJS"
-      },
       "setting": {
-        "title": "Setting Up OJS",
+        "title": "Setting Up OJS - User Roles",
         "sidebar_label": "User Roles"
       },
       "setting1": {
-        "title": "Setting Up OJS",
+        "title": "Setting Up OJS - Journal Settings",
         "sidebar_label": "Journal Settings"
       },
       "setting2": {
-        "title": "Setting Up OJS",
+        "title": "Setting Up OJS - Website Settings",
         "sidebar_label": "Website Settings"
       },
       "setting3": {
-        "title": "Setting Up OJS",
+        "title": "Setting Up OJS - Workflow Settings",
         "sidebar_label": "Workflow Settings"
       },
       "setting4": {
-        "title": "Setting Up OJS",
+        "title": "Setting Up OJS - Distribution Settings",
         "sidebar_label": "Distribution Settings"
+      },
+      "setting5": {
+        "title": "Setting Up OJS - Import Tool",
+        "sidebar_label": "Import Tool"
       },
       "start": {
         "title": "Starting a New Journal",
-        "sidebar_label": "Journal Support at CSU Libraries"
+        "sidebar_label": "CSU Library Support"
       },
       "start1": {
         "title": "Starting a New Journal",
@@ -121,7 +141,7 @@
       "Managing Your Journal": "Managing Your Journal",
       "Using Identifiers": "Using Identifiers",
       "Promoting Your Journal": "Promoting Your Journal",
-      "Resources": "Resources"
+      "Resources (Library Contacts)": "Resources (Library Contacts)"
     }
   },
   "pages-strings": {

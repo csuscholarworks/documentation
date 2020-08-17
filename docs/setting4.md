@@ -1,22 +1,20 @@
 ---
 id: setting4
-title: Setting Up OJS
-description: Setting Up OJS at California State University
+title: Setting Up OJS - Distribution Settings
+description: Setting Up OJS - Distribution Settings
 sidebar_label: Distribution Settings
 ---
-## Distribution Settings
 
+## Distribution Settings
 Finally, click Settings in the left sidebar, and this time select Distribution. Once again, follow along with the corresponding [PKP documentation](https://docs.pkp.sfu.ca/learning-ojs/en/settings-distribution) to add information regarding Indexing, Access, Payments (if applicable), and Permissions.
 
 ### Indexing
 In addition to the [Distribution Settings](https://docs.pkp.sfu.ca/learning-ojs/en/settings-distribution#search-indexing) documentation, you may also wish to consult the PKP’s recommendations for search engine optimization in their [Getting Found: Building Visibility](https://docs.pkp.sfu.ca/learning-ojs/en/settings-distribution#search-indexing) guide.
 
+The [Promoting your Journal](promote.md) section of this guide includes additional general information about and resources for [indexing](promote.md).
+
 ### Access
-There are two dominant access models for scholarly journals: subscription-based and open access. To receive support from your CSU library, your journal must be committed to an open access model, which [SPARC](https://sparcopen.org/open-access/) defines as “the free, immediate, online availability of research articles combined with the rights to use these articles fully in the digital environment.”
-
-[![Open Access Explained](assets/OAExplained.png)](https://www.youtube.com/watch?v=L5rVH1KGBCY)
-
-In most cases, journals should not alter the default Access settings. If you have questions, please email your [library publishing contact](contacts.md).
+In most cases, journals should not alter the default Access settings. If you have questions, please consult the [Open Access](establish3.md) policy section of this guide and/or email your [library publishing contact](contacts.md).
 
 ![distributionsettings](assets/DistributionSettings.png)
 

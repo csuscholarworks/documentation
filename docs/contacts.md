@@ -1,9 +1,10 @@
 ---
 id: contacts
-title: California State University library publishing contact
+title: CSU Library Publishing Contacts
 description: Questions about publishing at your campus? Reach out to your library contact
-sidebar_label: Contact
+sidebar_label: CSU Campus Contacts
 ---
+
 ## Contact your campus
  - Bakersfield
  - Channel Islands

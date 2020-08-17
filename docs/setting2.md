@@ -1,14 +1,21 @@
 ---
 id: setting2
-title: Setting Up OJS
-description: Setting Up OJS at California State University
+title: Setting Up OJS - Website Settings
+description: Setting Up OJS - Website Settings
 sidebar_label: Website Settings
 ---
+
 ## Website Settings
 When finished with your journal settings, click Settings in the left sidebar, and select Website. You can again follow along with the [PKP documentation](https://docs.pkp.sfu.ca/learning-ojs/en/settings-website), which will help you customize the look and feel of your journal website.
 
 ### Appearance
-At this time, most CSU libraries will be unable to provide in-depth support with graphics or journal stylesheets. However, the PKP provides additional documentation for [designing your journal](https://docs.pkp.sfu.ca/designing-your-journal/en/). If you have questions or run into technical difficulties, please email your [library publishing contact](contacts.md).
+At this time, most CSU libraries will be unable to provide in-depth support with graphics or journal stylesheets. However, the PKP provides additional documentation for [designing your journal](https://docs.pkp.sfu.ca/designing-your-journal/en/).
+
+Note that you can change the default theme by navigating to the Plugins tab, scrolling down to Theme Plugins, and checking the installed options to enable them. You should then be able to test out the various themes.
+
+![themes](assets/themes.png)
+
+If you have questions or run into technical difficulties, please email your [library publishing contact](contacts.md).
 
 ### Archiving
 It is very important to identify an archiving (also known as digital preservation) strategy for your journal to ensure long-term access to the content.
