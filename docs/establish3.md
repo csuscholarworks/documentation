@@ -5,9 +5,6 @@ description: Establishing Policies - Copyright and Licensing
 sidebar_label: Copyright and Licensing
 ---
 
-## Establishing Policies
-This section provides an overview of more theoretical publishing best practices, with a focus on publishing ethics, open access, peer review, copyright and licensing, and accessibility. Particularly if you are new to journal publishing, please take the time to familiarize yourself with this information, and email your [library publishing contact](contacts.md) if you have questions.
-
 ### Copyright and Licensing
 Rather than requiring authors to transfer their copyright to the journal, which is a common practice among subscription-based journals, the CSU libraries require affiliated journals to allow authors to retain their copyright. As described below, authors should be encouraged to publish their work under an open license to supplement the limited uses afforded by copyright. At a minimum, and as described in the CSU’s sample [memoranda of understanding](info1.md), authors must grant the Library a nonexclusive, irrevocable, worldwide license to disseminate their work electronically.
 

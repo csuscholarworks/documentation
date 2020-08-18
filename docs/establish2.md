@@ -5,9 +5,6 @@ description: Establishing Policies - Peer Review
 sidebar_label: Peer Review
 ---
 
-## Establishing Policies
-This section provides an overview of more theoretical publishing best practices, with a focus on publishing ethics, open access, peer review, copyright and licensing, and accessibility. Particularly if you are new to journal publishing, please take the time to familiarize yourself with this information, and email your [library publishing contact](contacts.md) if you have questions.
-
 ### Peer Review
 [![Peer Review Process](assets/peerreview.png)](https://youtu.be/DWzKI4WhSPQ)
 

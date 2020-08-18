@@ -5,9 +5,6 @@ description: Establishing Policies - Accessibility
 sidebar_label: Accessibility
 ---
 
-## Establishing Policies
-This section provides an overview of more theoretical publishing best practices, with a focus on publishing ethics, open access, peer review, copyright and licensing, and accessibility. Particularly if you are new to journal publishing, please take the time to familiarize yourself with this information, and email your [library publishing contact](contacts.md) if you have questions.
-
 ### Accessibility
 > *It is [the policy](https://calstate.policystat.com/policy/6629496/latest/) of the CSU to make information technology resources and services accessible
 > to all CSU students, faculty, staff and the general public regardless of disability.*
