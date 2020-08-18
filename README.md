@@ -1,18 +1,18 @@
 # documentation
-Just a website generator using Markdown, currently used for the CSU OJS documentation site
+Just a website generator using Markdown (Docusaurus), currently used for the CSU OJS documentation site
 
 ## Getting Started
 After making changes to template files in `/docs`, navigate to `/website` and run the test site:
-> cd website
 
-> yarn run start or `npm run start`
+`yarn run start` or `npm run start`
 
-> Navigate to http://localhost:3000
+Navigate to http://localhost:3000
 
 Once you're happy with the site, navigate to `/website` and run the generator:
-> cd website
-> yarn run start or `npm run start`
-> Navigate to http://localhost:3000
+
+`yarn run build` or `npm run build`
+
+Navigate to http://localhost:3000
 
 That's it! The site is located in the `/build` directory
 
