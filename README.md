@@ -12,9 +12,7 @@ Once you're happy with the site, navigate to `/website` and run the generator:
 
 `yarn run build` or `npm run build`
 
-Navigate to http://localhost:3000
-
-That's it! The site is located in the `/build` directory
+That's it! The site is located in the `/build` directory.
 
 ## About Docusaurus
 More information about Docusaurus: https://docusaurus.io/docs/en/installation
