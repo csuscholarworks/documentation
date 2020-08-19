@@ -19,5 +19,6 @@ Ensuring that articles are accessible to screen readers and other assistive tech
 
  - [Create Accessible PDFs (US GSA)](https://www.section508.gov/create/pdfs)
  - [The National Center on Disability and Access to Education](http://ncdae.org/resources/cheatsheets/)
+ - [Make Your Word Documents Accessible (Microsoft)](https://support.microsoft.com/en-us/office/make-your-word-documents-accessible-to-people-with-disabilities-d9bf3683-87ac-47ea-b91a-78dcacb3c66d)
 
 Sharing with authors resources to assist them in making their manuscripts compliant while they are still in Microsoft Word or other word processing formats is the easiest way to create accessible articles. While it is possible to remediate PDFs, it is more cumbersome.
