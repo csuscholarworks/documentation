@@ -5,8 +5,6 @@ description: Questions about publishing at your campus? Reach out to your librar
 sidebar_label: CSU Campus Contacts
 ---
 
-## Testing a header
-
 ## Contact your campus
  - Bakersfield
  - Channel Islands
