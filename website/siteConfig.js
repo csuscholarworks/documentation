@@ -23,8 +23,8 @@
 const siteConfig = {
   title: 'Journal Publishing Guide', // Title for your website.
   tagline: 'Open Journal Systems at California State University Guide',
-  url: 'http://ojs-documentation.s3-website-us-west-2.amazonaws.com/', // Your website URL
-  baseUrl: '/', // Base URL for your project */
+  url: 'http://journals.calstate.edu', // Your website URL
+  baseUrl: '/guide/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
