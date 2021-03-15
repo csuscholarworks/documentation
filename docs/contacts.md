@@ -12,7 +12,7 @@ sidebar_label: CSU Campus Contacts
  - Dominguez Hills: [Dana Ospina](mailto:dospina@csudh.edu)
  - East Bay: [Lana Wood](mailto:lana.wood@csueastbay.edu)
  - Fresno: [David Drexler](mailto:ddrexler@csufresno.edu)
- - Fullerton: [Keri Prelitz](mailto:kprelitz@fullerton.edu)
+ - Fullerton: [Mark Bilby](mailto:mbilby@fullerton.edu)
  - Humboldt: [Kyle Morgan](mailto:Kyle.Morgan@humboldt.edu)
  - Los Angeles: [Alice Kawakami](mailto:akawaka@exchange.calstatela.edu) and [Jayati Chaudhuri](mailto:jchaudh5@calstatela.edu)
  - Maritime: [Michele Van Hoeck](mailto:mvanhoeck@csum.edu)
