@@ -6,7 +6,7 @@ sidebar_label: Get Started
 ---
 ## Get Started
 
-In addition to choosing your journal’s name and deciding what kind of content your journal will publish, there are a number of other decisions that you will need to make during the planning stage. The PKP’s list of [Things to Consider](https://docs.pkp.sfu.ca/student-toolkit/en/things-to-consider) is a helpful starting point.
+In addition to choosing your journal’s name and deciding what kind of content your journal will publish, there are a number of other decisions that you will need to make during the planning stage. Prospective student journals may wish to consult the PKP’s [Student Journal Toolkit](https://docs.pkp.sfu.ca/student-toolkit/en/), which includes a helpful list of [Things to Consider](https://docs.pkp.sfu.ca/student-toolkit/en/things-to-consider).
 
 In general, journals should meet the following requirements before seeking support from a CSU library. If your journal meets these criteria, please fill out the [Request Journal Support Form](assets/RequestJournalSupportForm.pdf) and email it to your [library publishing contact](contacts.md).
 

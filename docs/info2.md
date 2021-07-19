@@ -10,4 +10,4 @@ The following article templates were created in Microsoft Word using styles. The
 
  - [Single Column Template](assets/OJTemplate_single_column.docx)
 
- - [Two Column Template](assets/OJTemplate_single_column.docx)
+ - [Two Column Template](assets/OJTemplate_two_columns.docx)

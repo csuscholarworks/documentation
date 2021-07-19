@@ -6,10 +6,8 @@ sidebar_label: Additional Documentation
 ---
 
 ## PKP
- - [Learning OJS](https://pkp.gitbooks.io/ojs3/content/en/)
  - [OJS3 User Guide](https://openjournalsystems.com/ojs-3-user-guide/)
  - [PKP School](http://pkpschool.sfu.ca/)
- - [Links to various OJS Documentation](https://pkp.sfu.ca/wiki/index.php?title=OJS_Documentation)
  - [PKP Community Forum](https://forum.pkp.sfu.ca/)
  - [Public Knowledge Project: OJS](https://pkp.sfu.ca/ojs/)
  - [OJS3 Journal examples](https://pkp.sfu.ca/2018/04/12/open-journal-system-3-examples/)

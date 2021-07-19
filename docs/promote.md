@@ -10,6 +10,4 @@ Inclusion in scholarly indexes is a powerful way to increase the discoverability
 
 While indexing might appear to be something to consider once the publication is up and running, it actually is ideal to identify desirable indexes as you are establishing your journal in order to learn what is required to be listed—for example, some indexes require a specific number of published issues before they will consider including a journal.
 
-This [blog post](https://blog.scholasticahq.com/post/index-types-for-academic-journal/#key-index-types-consider) authored by Scholastica provides an overview and useful information on indexes and indexing.
-
-Once your journal has received an ISSN, the CSU Libraries strongly recommends that you apply for it to be indexed in the [PKP Index](https://index.pkp.sfu.ca). For assistance filling out the [registration form](https://index.pkp.sfu.ca/index.php/user/register), and to learn of other forms of support for indexing on your campus, please email your ***[library publishing contact](contacts.md)***.
+This [blog post](https://blog.scholasticahq.com/post/index-types-for-academic-journal/#key-index-types-consider) authored by Scholastica provides an overview and useful information on indexes and indexing. The PKP’s [Getting Found, Staying Found, Increasing Impact guide](https://docs.pkp.sfu.ca/getting-found-staying-found/en/getting-found-visibility#indexes-and-databases) also includes some helpful information on indexing.
